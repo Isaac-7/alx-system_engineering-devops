@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 100 h
+sudo chown +x hell
